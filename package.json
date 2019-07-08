@@ -1,0 +1,14 @@
+{
+  "name": "lat1",
+  "version": "1.0.0",
+  "description": "hello",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "agung96tm",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0-rc.1"
+  }
+}
